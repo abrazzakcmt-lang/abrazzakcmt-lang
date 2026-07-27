@@ -1,4 +1,6 @@
-<img src="[https://drive.google.com/file/d/1G_2LymTZvx_3JsAFUL--c0cZOf3DNKzT/view?usp=sharing](https://drive.google.com/file/d/1G_2LymTZvx_3JsAFUL--c0cZOf3DNKzT/view?usp=drive_link)">
+<p align="center">
+  <img src="Razzak_Web_Developer_Cover_Photo.png" width="100%" alt="Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Md Abdur Razzak</h1>
 <h3 align="center">Passionate Web Developer | Laravel & WordPress Developer | PHP OOP Enthusiast | Building scalable web applications & crafting my own PHP framework.</h3>
 
